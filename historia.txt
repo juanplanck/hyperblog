@@ -1,0 +1,11 @@
+Este es el curso de git
+con todos los comandos que conocemos hasta el momento y iremos agragando comando cada vez que tengamos uno nuevo 
+cd		cambiar directorio
+mkdir		crear una carpeta
+pwd		conocer el link de tu carpeta
+git init	iniciar repositorio
+touch vacio.txt	crear un archivo vacio
+ls		ver mis archivos
+cat		revisar que texto tiene un archivo
+git status	mira el estado de los archivos que se encuentran en esta carpeta
+git add history.txt	añade a un estado de espera para despues poder guardarlo exitosamente
