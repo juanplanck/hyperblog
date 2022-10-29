@@ -18,4 +18,5 @@ git commit -m "comentario de commit"
 git log <nombre de archivo>
 git show    donde se puende ver los cambios que se han realizado sobre un documento
 git diff <idnew> <idold> para sacar estos id podemos sacarlos con git log
- 
+git reset <idal que quieres volver> --hard tener cuidado porque borra los cambios que ya habias hecho
+git reset <idal que quieres volver> -soft en este queda en espera de añadir.
