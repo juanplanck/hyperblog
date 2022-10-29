@@ -9,3 +9,10 @@ ls		ver mis archivos
 cat		revisar que texto tiene un archivo
 git status	mira el estado de los archivos que se encuentran en esta carpeta
 git add history.txt	añade a un estado de espera para despues poder guardarlo exitosamente
+git rm --cached		volver al estado de no guardado en el repo
+git config		configurar de una manera adecuada git
+git config --list	muestra la configuracion total
+git config --global user.name "Juan Carlos Bautista Rodriguez"
+git config --global user.email "jubautista@novopayment.com"
+git commit -m "comentario de commit"
+git log <nombre de archivo>
