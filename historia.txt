@@ -16,3 +16,4 @@ git config --global user.name "Juan Carlos Bautista Rodriguez"
 git config --global user.email "jubautista@novopayment.com"
 git commit -m "comentario de commit"
 git log <nombre de archivo>
+git show    donde se puende ver los cambios que se han realizado sobre un documento
