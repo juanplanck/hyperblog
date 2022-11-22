@@ -27,6 +27,14 @@ body {
     font-size: .8em
 }
 
+#cola {
+    background: rgb(228, 228, 244);
+    color: rgb(22, 9, 9);
+    font-weight: 700;
+    margin: 0;
+    padding: .5em
+}
+
 #container {
     width: 70%;
     padding: 0;
